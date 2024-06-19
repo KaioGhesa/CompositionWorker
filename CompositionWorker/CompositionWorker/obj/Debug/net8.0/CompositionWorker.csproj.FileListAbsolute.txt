@@ -1,0 +1,14 @@
+C:\Projeto C#\CompositionWorker\CompositionWorker\obj\Debug\net8.0\CompositionWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\CompositionWorker\CompositionWorker\obj\Debug\net8.0\CompositionWorker.AssemblyInfoInputs.cache
+C:\Projeto C#\CompositionWorker\CompositionWorker\obj\Debug\net8.0\CompositionWorker.AssemblyInfo.cs
+C:\Projeto C#\CompositionWorker\CompositionWorker\obj\Debug\net8.0\CompositionWorker.csproj.CoreCompileInputs.cache
+C:\Projeto C#\CompositionWorker\CompositionWorker\bin\Debug\net8.0\CompositionWorker.exe
+C:\Projeto C#\CompositionWorker\CompositionWorker\bin\Debug\net8.0\CompositionWorker.deps.json
+C:\Projeto C#\CompositionWorker\CompositionWorker\bin\Debug\net8.0\CompositionWorker.runtimeconfig.json
+C:\Projeto C#\CompositionWorker\CompositionWorker\bin\Debug\net8.0\CompositionWorker.dll
+C:\Projeto C#\CompositionWorker\CompositionWorker\bin\Debug\net8.0\CompositionWorker.pdb
+C:\Projeto C#\CompositionWorker\CompositionWorker\obj\Debug\net8.0\CompositionWorker.dll
+C:\Projeto C#\CompositionWorker\CompositionWorker\obj\Debug\net8.0\refint\CompositionWorker.dll
+C:\Projeto C#\CompositionWorker\CompositionWorker\obj\Debug\net8.0\CompositionWorker.pdb
+C:\Projeto C#\CompositionWorker\CompositionWorker\obj\Debug\net8.0\CompositionWorker.genruntimeconfig.cache
+C:\Projeto C#\CompositionWorker\CompositionWorker\obj\Debug\net8.0\ref\CompositionWorker.dll
